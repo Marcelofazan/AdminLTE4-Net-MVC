@@ -46,7 +46,3 @@ server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurity
 ```
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
-
-#### Aqui está uma demonstração do projeto:
-
-<img width="1360" height="612" alt="AdminLTE4-Net-Mvc5-Crud" src="https://github.com/user-attachments/assets/420e5cd4-678d-4cfe-8744-bcb348e978bf" />
