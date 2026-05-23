@@ -1,16 +1,17 @@
-## 🌍 AdminLTE4-Net-Mvc-MySQL
-
+## 🌍 AdminLTE4-Net-Mvc
 Exemplo de utilização do AdminLTE com com criação de Renderizar o Layout em MVC com banco de dados MySQL.
 
-* Template Responsivo AdminLTE 4
+#### O que você vai encontrar neste projeto
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
+| **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-#### Disponivel em (https://adminlte.io/ )
-
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
-
-#### 📁 Requisitos e Detalhe do uso do AdminLTE
+#### 📁 Requisitos do Projeto
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
+
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
 
 Criar uma nova pasta chamada adminlte no Solution do Projeto
 - Acessar o diretorio na pasta AdminLTE-4 /dist ->  Arrastar as pastas (css), (assets) e (js) e Colar dentro da pasta adminlte
@@ -25,12 +26,6 @@ adminlte
         |-------| /assets 
         |-------| /js
 ```
-
-#### O que você vai encontrar neste projeto
-| Tecnologia | Descrição |
-|-----------|-----------|
-| **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
-| **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
 ####  Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL. 
