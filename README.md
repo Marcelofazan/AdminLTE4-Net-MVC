@@ -27,7 +27,7 @@ adminlte
         |-------| /js
 ```
 
-####  Executar a aplicação
+#### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
